@@ -37,7 +37,7 @@
     },
     {
       "title": "I Created This Stream",
-      "description": "This was made by me!",
+      "description": "This change was made by a PATCH request",
       "userId": "118270405929548522772",
       "id": 8
     },
@@ -52,6 +52,11 @@
       "description": "You should not see this on the form page!!!",
       "userId": "118270405929548522772",
       "id": 10
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "This stream is about refactoring!!!",
+      "id": 11
     }
   ]
 }
